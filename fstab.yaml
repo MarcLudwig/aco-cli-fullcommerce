@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/MarcLudwig/aco-cli-fullcommerce/
+    type: markup
+
+folders:
+  /products/: /products/default
