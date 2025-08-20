@@ -10,9 +10,14 @@
         "cs": {
           "AC-View-ID": "b2cdc85b-7004-494c-a3bd-6c55e5533e4c",
           "AC-Price-Book-ID": "east_coast_inc",
-          "AC-Source-Locale": "en-US"
+          "AC-Source-Locale": "en-US",
+          "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
+          "Magento-Store-Code": "main_website_store",
+          "Magento-Store-View-Code": "default",
+          "Magento-Website-Code": "base",
+          "x-api-key": "4dfa19c9fe6f4cccade55cc5b3da94f7",
+          "Magento-Environment-Id": "f38a0de0-764b-41fa-bd2c-5bc2f3c7b39a"
         }
-      },
       "analytics": {
         "base-currency-code": "USD",
         "environment": "Production",
