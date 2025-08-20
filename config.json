@@ -10,7 +10,7 @@
         "cs": {
           "AC-View-ID": "b2cdc85b-7004-494c-a3bd-6c55e5533e4c",
           "AC-Price-Book-ID": "east_coast_inc",
-          "AC-Source-Locale": "YOUR_HEADER_VALUE"
+          "AC-Source-Locale": "en-US"
         }
       },
       "analytics": {
